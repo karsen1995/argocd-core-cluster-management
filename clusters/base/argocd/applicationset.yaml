@@ -15,7 +15,7 @@ spec:
           - clusters: {}
           # produces argocd app per directory in clusters/base
           - git:
-              repoURL: &repo https://github.com/alexmt/argocd-core-cluster-management.git
+              repoURL: &repo https://github.com/karsen1995/argocd-core-cluster-management.git
               directories:
               - path: clusters/base/*
       - merge:
