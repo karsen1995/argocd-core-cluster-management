@@ -7,7 +7,7 @@ The repository is used to power demo presented at Kubecon EU 2023. See https://s
 
 ![logo](logo.png)
 
-## Overview
+## Overview change
 
 Argo CD is used by both application developers and cluster administrators. The latter use cases are slightly different from the former.
 The main difference is that cluster administrators typically manage way more applications in multiple clusters and have to leverage more advanced techniques.
